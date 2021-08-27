@@ -1,0 +1,54 @@
+<span>vamsi</span>bkbk 
+<span>vamsi</span>vvjuvv 
+<span>Guest</span>bbibgi 
+<span>admin</span>gtrfrzrts 
+<span>tarun</span>zezezrerz 
+<span>tarun</span>hchcy 
+<span>admin</span>ycycf 
+<span>tarun</span>hi 
+<span>admin</span>hi 
+<span>tarun</span>hi 
+<span>admin</span>hlo 
+<span>tarun</span>ufff 
+<span>vamsi</span>Hi 
+<span>admin</span>Hlo. How may i help u? 
+<span>vamsi</span>I am having a booking issue 
+<span>admin</span>May i know what  
+<span>vamsi</span>Hi 
+<span>admin</span>Hlo 
+<span>vamsi</span>Hi 
+<span>vamsi</span>Hi 
+<span>Vamsi</span>Hi 
+<span>admin</span>Hlo 
+<span>Vamsi</span>Hi 
+<span>admin</span>Hlo 
+<span>Vamsi</span>How r u? 
+<span>admin</span>I am fine 
+<span>Vamsi</span>Hi 
+<span>Vamsi</span>Hi 
+<span>Vamsi</span>Hi 
+<span>Vamsi</span>I am having problem with my booking 
+<span>admin</span>What is the problem 
+<span>Guest</span>Hi 
+<span>Guest</span>I need a link to register my friends for chatting platform 
+<span>admin</span>Sure i will provide you 
+<span>admin</span>http://localhost/iwp/chat3/register .php
+<span>Guest</span>Hi admin 
+<span>admin</span>Hi user 
+<span>Ram</span>Hi admin 
+<span>admin</span>Hi Ram 
+<span>Ram</span>I have done a booking with booking id 1034 
+<span>Ram</span>I need a local chatting application for chatting with my colics  
+<span>admin</span>Ok i will provide u with a link register there 
+<span>admin</span>http://localhost/iwp/chat3/register .php
+<span>Ram</span>Thank u 
+<span>Guest</span>hey 
+<span>Abhinov</span>hey 
+<span>admin</span>hey 
+<span>Abhinov</span>i want some help 
+<span>admin</span>what help? 
+<span>Abhinov</span>my booking is not confirmed 
+<span>admin</span>oh okay will look into it 
+<span>Abhinov</span>cool thank you!! 
+<span>Guest</span>hello 
+<span>admin</span>yes tell me 
