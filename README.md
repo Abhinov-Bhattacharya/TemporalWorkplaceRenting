@@ -16,7 +16,9 @@ The main aim of the project is to help developing organizations by providing the
 ## Introduction
 An Integrated Workplace Management System (IWMS) is software that helps in providing a pleasant 
 workplace and required resources for developing organizations and to individuals to carry out their 
-work or projects without any risks. This software system enables individuals to use the resources available at the workplace efficiently 
+work or projects without any risks. 
+
+This software system enables individuals to use the resources available at the workplace efficiently 
 to complete their work. The workplace can be even called as temporary office space. 
 The user requires paying for the workspace and resources used in the workspace. Resources used 
 includes getting assistance from various developed organizations, usage of high speed WIFI data, air 
